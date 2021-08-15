@@ -1,0 +1,1 @@
+for (var i = 1; i < $gameMap.events().length; i++) if ($gameMap.event(i)) $gameMap.event(i)._moveFrequency = 1;
